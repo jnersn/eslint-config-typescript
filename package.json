@@ -1,14 +1,14 @@
 {
   "name": "@jraisanen/eslint-config-typescript",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eslint config",
   "main": "index.js",
   "repository": "git@github.com:jraisanen/eslint-config-typescript.git",
   "author": "Janne Räisänen <janne@jraisanen.com>",
   "license": "MIT",
   "peerDependencies": {
-    "eslint": "^6.8.0",
-    "eslint-import-resolver-typescript": "^2.0.0",
-    "eslint-plugin-import": "^2.20.2"
+    "eslint": "~8.12.0",
+    "eslint-import-resolver-typescript": "~2.7.0",
+    "eslint-plugin-import": "~2.25.4"
   }
 }
